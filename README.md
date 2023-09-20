@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Rem's</h1>
 <h3 align="center">A passionate front-end and junior back-end developer from France</h3>
 
@@ -7,9 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rmymartinet" alt="rmymartinet" /></a> </p>
 
+- 🚀 I'm currently diving into everything that tickles my brain cells and sparks my curiosity! **Portfolio**
+
 - 🌱 I'm currently wrangling with the big, bad world of full-stack development. It's like trying to tame a tech-savvy dragon! 🐉 **Openclassroom front-end and back end graduation, Udemy course (javascript, clean code)**
 
+- 👯 I'm on the hunt for fellow front-end enthusiasts to join forces and create pixel-perfect web wonders! **👨‍💻**
+
+- 🤝 I'm on the lookout for a back-end wizard to rescue me from the coding wilderness! **🧙‍♀️**
+
 - 📝 I regularly share articles on medium [https://medium.com/@remymartin.bk](https://medium.com/@remymartin.bk)
+
+- 💬 Ask me why aren't you collaborating on projects at the moment? **react**
 
 - 📫 How to reach me **remymartin.bk@gmail.com**
 
