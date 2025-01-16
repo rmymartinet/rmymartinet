@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently diving into everything that tickles my brain cells and sparks my curiosity<br><br>🌱 I'm currently wrangling with the big, bad world of full-stack development. It's like trying to tame a tech-savvy dragon! 🐉 <br><br>👯 I'm on the hunt for fellow front-end enthusiasts to join forces and create pixel-perfect web wonders!<br><br>🤝 I'm on the lookout for a back-end wizard to rescue me from the coding wilderness! <br><br>📝 I regularly share articles on medium [https://medium.com/@remymartin.bk](https://medium.com/@remymartin.bk)<br><br>💬 Ask me why aren't you collaborating on projects at the moment? <br><br>📫 How to reach me **remymartin.bk@gmail.com**
+🚀 I'm currently diving into everything that tickles my brain cells and sparks my curiosity<br><br>🌱 I'm currently wrangling with the big, bad world of full-stack development. It's like trying to tame a tech-savvy dragon! 🐉 <br><br>👯 I'm on the hunt for fellow front-end enthusiasts to join forces and create pixel-perfect web wonders!<br><br>🤝 I'm on the lookout for a back-end wizard to rescue me from the coding wilderness! <br><br>💬 Ask me why aren't you collaborating on projects at the moment? <br><br>📫 How to reach me **remymartinet.dev@gmail.com**
 
 
 # 💻 Tech Stack:
