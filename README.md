@@ -2,7 +2,7 @@
 
 I build things at the intersection of **software engineering, cybersecurity, and education**.
 
-Founder of **Hackpath** — a platform helping people learn cybersecurity from scratch through structured, hands-on learning.
+Founder of **Hackpath** a platform helping people learn cybersecurity from scratch through structured, hands-on learning.
 
 Currently focused on:
 - Building scalable full-stack applications (Next.js, Prisma, PostgreSQL)
@@ -17,9 +17,9 @@ I care about **clarity, execution, and real-world impact**.
 
 <img width="1536" height="1024" alt="ChatGPT Image 25 mars 2026, 15_41_34" src="https://github.com/user-attachments/assets/596c6d81-1d63-40ad-a4a2-69e6de4269d3" />
 
-- 🧠 Hackpath — cybersecurity learning platform
-- 🔐 90 Days Bootcamp — structured beginner → solid foundations
-- 📊 Building tools to automate and personalize learning experiences
+- Hackpath cybersecurity learning platform
+- 90 Days Bootcamp structured beginner → solid foundations
+- Building tools to automate and personalize learning experiences
 
 ---
 
@@ -46,9 +46,8 @@ Git, Docker, Vercel, Stripe, PostHog
 
 # 📫 Contact
 
-- Email: **remymartinet.dev@gmail.com**
 - Instagram: **@remy.engineering**
-- Website: *[(HackPath)](https://hackpath.dev/bootcamp)*
+- Mail : remy.engineering@proton.me
 
 ---
 
